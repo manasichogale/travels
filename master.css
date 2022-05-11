@@ -1,0 +1,26 @@
+<style>
+
+*{
+padding:0px;
+margin:0px;
+font-family:arial;
+text-decoration:none;
+}
+html{
+font-size:25px;
+}
+
+.header{
+height:100%;
+background-image;
+background-position:center;
+background-attachment:fixed;
+float:left;
+}
+
+.header nav a{
+color:black;
+font-size:10px;
+}
+
+</style>
